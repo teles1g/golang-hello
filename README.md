@@ -11,3 +11,9 @@ This is a simple case of how to execute a function in Golang with Docker Contain
 ```
 -> go run hello.go
 ```
+
+### Docker Hub
+
+```
+-> sudo docker run lucastelesdev/codeeducation
+```
